@@ -4,10 +4,9 @@
 # winxos
 # since:2017-04-20
 
-__version__ = "0.1.4"
+__version__ = "0.1.6"
 __title__ = "AISTLAB_utils"
 __description__ = "Tools packages created by python."
-__long_description__ = open('README.rst').read()
 __url__ = "https://github.com/winxos/AIST_utils"
 __docsurl__ = ""
 __author__ = "winxos"
