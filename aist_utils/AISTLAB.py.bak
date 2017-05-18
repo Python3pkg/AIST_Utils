@@ -4,4 +4,4 @@ def about_aistlab():
     WISH OUR FRIENDSHIP AND THE LABORATORY WILL LAST FOREVER.
     WINXOS 2017-04-21
     """
-    print((about_aistlab.__doc__))
+    print(about_aistlab.__doc__)
